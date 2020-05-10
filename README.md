@@ -2,5 +2,4 @@
 
 ![login image](/login.png)
 
-<img src="login.png" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+<img src="login.png" width="150" height="100" />
