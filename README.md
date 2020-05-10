@@ -1,6 +1,6 @@
 # Info Trafic
 
-O aplicatie cu si despre participantii la trafic. Prin intermediul aplicatiei poti informa ceilalti participanti la trafic despre accidente, blocaje, tamponari sau orice pericol real pentru participantii la trafic. Mai mult, poti chiar sa comunici cu ei prin mesaje pe baza numarului de inmatriculare. Luati chiar azi.
+O aplicatie cu si despre participantii la trafic. Prin intermediul aplicatiei poti informa ceilalti participanti despre accidente, blocaje, tamponari sau orice pericol real pentru participantii la trafic. Mai mult, poti chiar sa comunici cu ei prin mesaje pe baza numarului de inmatriculare. Luati chiar azi.
 
 
 # Cum functioneaza?
@@ -34,7 +34,7 @@ Adauga o scurta descriere, numarul de inmatriculare al masinii implicate in inci
 
 ## Mesaje
 
-Vrei sa transmiti un mesaj unui participant din trafic? Nimic mai simplu. Cauta numarul lui de inmatriculare in Mesaje, iar daca acesta foloseste aclicatia poate incepe discutia.
+Vrei sa transmiti un mesaj unui participant din trafic? Nimic mai simplu. Cauta numarul lui de inmatriculare in Mesaje, iar daca acesta foloseste apicatia, poate incepe discutia.
 
 <img src="https://github.com/ClaudiuStefaniga/info-trafic-pages/blob/master/mesaje.png" width="500">
 
