@@ -7,14 +7,14 @@ O aplicatie cu si despre participantii la trafic. Prin intermediul aplicatiei po
 
 Imediat ce descarci aplicatia, trebuie sa te inregistrezi folosind o adresa de e-mail si un numar de inmatriculare. Pe baza numarului de inmatriculare contul tau va fi identificat si vei primi mesaje si notificari de la ceilalti participanti la trafic.
 
-<img src="https://github.com/ClaudiuStefaniga/info-trafic-pages/blob/master/inregistrare.png" width="500">
+<img src="inregistrare.png" width="500">
 
 
 ## Harta
 
 Contine toate postarile despre incidentele din trafic sub forma de locatii. Prin apasarea unei locatii un pop-up se deschide si poti vedea toate detaliile despre acea postare.
 
-<img src="https://github.com/ClaudiuStefaniga/info-trafic-pages/blob/master/harta.png" width="500">
+<img src="harta.png" width="500">
 
 ## Noutati
 
