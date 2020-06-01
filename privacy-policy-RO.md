@@ -1,5 +1,5 @@
 ---
-permalink: /privacy-policy.html
+permalink: /privacy-policy-RO.html
 ---
 
 **Politica de Confidențialitate**
