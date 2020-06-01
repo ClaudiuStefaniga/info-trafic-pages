@@ -2,46 +2,49 @@
 permalink: /manual-EN.html
 ---
 
-# Info Trafic
-
-O aplicatie cu si despre participantii la trafic. Prin intermediul aplicatiei poti informa ceilalti participanti despre accidente, blocaje, tamponari sau orice pericol din trafic. Mai mult, comunica cu ei prin mesaje pe baza numarului de inmatriculare.
+# Info Traffic
 
 
-# Cum functioneaza?
+An application with and about traffic participants. Through the application you can inform the other participants about accidents, blockages, bumps or any traffic danger. Moreover, communicate with them through messages based on the registration number.
 
-Dupa ce ai descarcat aplicatia, trebuie sa te inregistrezi folosind o adresa de e-mail si un numar de inmatriculare. Pe baza numarului de inmatriculare contul tau va fi identificat si vei primi mesaje si notificari de la ceilalti participanti la trafic.
+
+# How it works?
+
+
+After downloading the application, you must register using an e-mail address and a registration number. Based on the registration number, your account will be identified and you will receive messages and notifications from other traffic participants.
 
 <img src="inregistrare.png" width="500">
 
 
-## Harta
+## Map
 
-Contine toate postarile despre incidentele din trafic sub forma de locatii. Prin apasarea unei locatii un pop-up se deschide si poti vedea toate detaliile despre acea postare.
+Contains all posts about traffic incidents in the form of locations. By clicking on a location a pop-up opens and you can see all the details about that post.
 
 <img src="harta.png" width="500">
 
-## Noutati
+## News
 
-Contine toate postarile sub forma detaliata. Poti vedea ora la care a avut loc incidentul, o descriere a acestuia si locatia sa. De asemenea poti adauga sau vedea comentariile celorlati utilizatori pentru o anumita postare.
+Contains all posts in detailed form. You can see the time of the incident, a description of it and its location. You can also add or view other users' comments for a specific post.
 
 <img src="noutati1.png" width="500">
 
 <img src="noutati2.png" width="500">
 
-## Posteaza
+## Post
 
-Ai vazut un accident/incident in trafic? Spune si celorlalti.
-Adauga o scurta descriere, numarul de inmatriculare al masinii implicate in incident/accident(pentru a putea fi informat imediat despre ce s-a intamplat), o imagine si locatia.
+Have you seen an accident / incident in traffic? Tell the others.
+Add a short description, the registration number of the car involved in the incident / accident (so that you can be informed immediately about what happened), an image and the location.
 
 
 <img src="postare.png" width="500">
 
-## Mesaje
+## Messages
 
-Vrei sa transmiti un mesaj unui participant din trafic? Nimic mai simplu. Cauta numarul lui de inmatriculare in Mesaje, iar daca acesta foloseste apicatia, poate incepe discutia.
+Do you want to send a message to a traffic participant? Nothing easier. Look for his registration number in Messages, and if he uses the application, he can start the discussion.
 
 <img src="mesaje.png" width="500">
 
 ### Contact
 
-Pentru orice informatii, probleme, noi functionalitati ce v-ar placea sa fie adaugate ma puteti contacta la claudiu_stefaniga@yahoo.ro sau prin intermediul aplicatiei la CS42SKY.
+
+For any information, problems, new functionalities that you would like to be added you can contact me at claudiu_stefaniga@yahoo.ro or through the application at CS42SKY.
