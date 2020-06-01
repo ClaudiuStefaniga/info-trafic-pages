@@ -1,3 +1,7 @@
+---
+permalink: /manualRO.html
+---
+
 # Info Trafic
 
 O aplicatie cu si despre participantii la trafic. Prin intermediul aplicatiei poti informa ceilalti participanti despre accidente, blocaje, tamponari sau orice pericol din trafic. Mai mult, comunica cu ei prin mesaje pe baza numarului de inmatriculare.
