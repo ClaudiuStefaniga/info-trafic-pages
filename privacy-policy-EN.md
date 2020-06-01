@@ -2,61 +2,61 @@
 permalink: /privacy-policy-EN.html
 ---
 
-**Politica de Confidențialitate**
+**Privacy policy**
 
-Claudiu Stefaniga a construit aplicația Info Trafic ca o aplicație gratuită. Acest SERVICIU este furnizat de Claudiu Stefaniga fără costuri și este destinat utilizării așa cum este.
+Claudiu Stefaniga built the Info Trafic application as a free application. This SERVICE is provided by Claudiu Stefaniga free of charge and is intended for use as is.
 
-Această pagină este utilizată pentru a informa vizitatorii cu privire la politicile mele cu privire la colectarea, utilizarea și dezvăluirea informațiilor personale dacă cineva a decis să utilizeze Serviciul meu.
+This page is used to inform visitors about my policies regarding the collection, use and disclosure of personal information if anyone has decided to use my Service.
 
-Dacă alegeți să utilizați Serviciul meu, atunci sunteți de acord cu colectarea și utilizarea informațiilor în legătură cu această politică. Informațiile personale pe care le colectez sunt utilizate pentru furnizarea și îmbunătățirea Serviciului. Nu voi folosi sau partaja informațiile dvs. cu nimeni, cu excepția celor descrise în această Politică de confidențialitate.
+If you choose to use My Service, then you agree to the collection and use of information in connection with this policy. The personal information we collect is used to provide and improve the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-Termenii folosiți în această Politică de confidențialitate au aceleași semnificații ca în Termenii și condițiile noastre, care este accesibil la Info Trafic, dacă nu este definit altfel în această Politică de confidențialitate.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible to Info Trafic, unless otherwise defined in this Privacy Policy.
 
-**Colectarea și utilizarea informațiilor**
+** Collection and use of information **
 
-Pentru o experiență mai bună, în timp ce utilizați Serviciul nostru, vă pot solicita să ne furnizați anumite informații de identificare personală, inclusiv, dar fără a se limita la adresa de e-mail, numărul plăcuței mașinii, fotografii.
+For a better experience, while using our Service, we may ask you to provide us with certain personally identifiable information, including but not limited to your email address, license plate number, photos.
 
-**Datele logate**
+** Logged in data **
 
-Vreau să vă informez că de fiecare dată când folosiți Serviciul meu, în cazul unei erori în aplicație, colectez date și informații (prin produse terțe) pe telefonul dvs. numit Log Data. Aceste date de jurnal pot include informații, cum ar fi adresa protocolului Internet („IP”) a dispozitivului, numele dispozitivului, versiunea sistemului de operare, configurația aplicației la utilizarea serviciului meu, ora și data utilizării serviciului și alte statistici. 
+I want to inform you that every time you use my Service, in case of an application error, I collect data and information (through third party products) on your phone called Log Data. This log data may include information such as the device's Internet Protocol ("IP") address, device name, operating system version, application configuration when using my service, time and date of use of the service, and other statistics.
 
-**Cookies**
+** Cookies **
 
-Cookie-urile sunt fișiere cu o cantitate mică de date care sunt utilizate în mod obișnuit ca identificatori unici anonimi. Acestea sunt trimise browserului dvs. de pe site-urile web pe care le vizitați și sunt stocate în memoria internă a dispozitivului.
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser on the websites you visit and are stored in the internal memory of the device.
 
-Acest Serviciu nu utilizează aceste „cookie-uri” în mod explicit. Cu toate acestea, aplicația poate utiliza coduri terțe și biblioteci care folosesc „cookie-uri” pentru a colecta informații și a-și îmbunătăți serviciile. Aveți opțiunea să acceptați sau să refuzați aceste cookie-uri și să știți când un cookie este trimis pe dispozitivul dvs. Dacă alegeți să refuzați cookie-urile noastre, este posibil să nu puteți utiliza unele porțiuni ale acestui Serviciu.
+This Service does not use these "cookies" explicitly. However, the application may use third-party codes and libraries that use "cookies" to collect information and improve their services. You have the option to accept or decline these cookies and to know when a cookie is sent to your device. If you choose to decline our cookies, you may not be able to use some portions of this Service.
 
 **Service Providers**
 
-Pot angaja companii terțe și persoane din următoarele motive:
+I can hire third parties and individuals for the following reasons:
 
-* Pentru a facilita serviciul nostru;
-* Pentru a furniza Serviciul în numele nostru;
-* Pentru a efectua servicii legate de servicii; sau
-* Pentru a ne ajuta în analizarea modului în care este utilizat Serviciul nostru.
+* To facilitate our service;
+* To provide the Service on our behalf;
+* To perform service-related services; or
+* To assist us in analyzing how our Service is used.
 
-Doresc să informez utilizatorii acestui serviciu că acești terți au acces la informațiile dvs. personale. Motivul este să îndepliniți sarcinile care le sunt atribuite în numele nostru. Cu toate acestea, ei sunt obligați să nu dezvăluie sau să utilizeze informațiile în alte scopuri.
+I would like to inform users of this service that these third parties have access to your personal information. The reason is to perform the tasks assigned to them on our behalf. However, they are obliged not to disclose or use the information for other purposes.
 
-**Securitate**
+**Security**
 
-Apreciez încrederea dvs. în furnizarea informațiilor dvs. personale, astfel ne străduim să folosim mijloace acceptabile din punct de vedere comercial pentru protejarea acestora. Însă nu uitați că nicio metodă de transmitere pe internet sau o metodă de stocare electronică nu este 100% sigură și fiabilă și nu pot garanta securitatea absolută.
+I appreciate your confidence in providing your personal information, so we strive to use commercially acceptable means to protect it. But keep in mind that no internet transmission method or electronic storage method is 100% secure and reliable and cannot guarantee absolute security.
 
-**Linkuri catre alte siteuri**
+** Links to other sites **
 
-Acest Serviciu poate conține legături către alte site-uri. Dacă faceți clic pe un link terț, veți fi direcționat către site-ul respectiv. Rețineți că aceste site-uri externe nu sunt operate de mine. Prin urmare, vă sfătuiesc să revizuiți Politica de confidențialitate a acestor site-uri web. Nu am niciun control și nu îmi asum nici o responsabilitate pentru conținutul, politicile de confidențialitate sau practicile site-urilor sau serviciilor terților.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Please note that these external sites are not operated by me. Therefore, I advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies or practices of third party sites or services.
 
-**Confidențialitatea copiilor**
+** Children's privacy **
 
-Aceste servicii nu se adresează nimănui sub vârsta de 13 ani. Nu colectez în cunoștință de cauză informații personale de la copiii sub 13 ani. În cazul în care descopăr că un copil sub 13 ani mi-a furnizat informații personale, îl șterg imediat de pe serverele noastre. Dacă sunteți părinte sau tutore și sunteți conștienți de faptul că copilul dvs. ne-a furnizat informații personale, vă rugăm să mă contactați pentru a putea să fac acțiunile necesare.
+These services are not addressed to anyone under the age of 13. I do not knowingly collect personal information from children under 13 years of age. If I find out that a child under the age of 13 has provided me with personal information, I immediately delete it from our servers. If you are a parent or guardian and are aware that your child has provided us with personal information, please contact me so that I can take the necessary action.
 
-**Modificări ale acestei politici de confidențialitate**
+** Changes to this privacy policy **
 
-Pot să actualizez Politica noastră de confidențialitate din când în când. Astfel, vi se recomandă să consultați periodic această pagină pentru orice modificări. Vă voi anunța orice modificări prin publicarea noii Politici de confidențialitate pe această pagină.
+I may update our Privacy Policy from time to time. Thus, it is recommended that you check this page regularly for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-Această politică este eficientă începând cu 2020-05-10
+This policy is effective as of 2020-05-10
 
 **Contact**
 
-Dacă aveți întrebări sau sugestii cu privire la politica mea de confidențialitate, nu ezitați să mă contactați la adresa claudiu_stefaniga@yahoo.ro.
+If you have any questions or suggestions regarding my privacy policy, do not hesitate to contact me at claudiu_stefaniga@yahoo.ro.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+This privacy policy page was created at [privacypolicytemplate.net] (https://privacypolicytemplate.net) and modified / generated by [App Privacy Policy Generator] (https://app-privacy-policy-generator.firebaseapp.com/)
