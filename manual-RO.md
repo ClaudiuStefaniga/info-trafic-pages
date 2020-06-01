@@ -1,5 +1,5 @@
 ---
-permalink: /manualRO.html
+permalink: /manual-RO.html
 ---
 
 # Info Trafic
@@ -44,4 +44,4 @@ Vrei sa transmiti un mesaj unui participant din trafic? Nimic mai simplu. Cauta 
 
 ### Contact
 
-Pentru orice informatii, probleme, noi functionalitati ce v-ar placea sa fie adaugate ma puteti contacta la claudiu_stefaniga@yahoo.ro sau prin intermediul aplicatiei la CS42SKY.
+Pentru orice informatii, probleme, noi functionalitati ce v-ar placea sa fie adaugate ma puteti contacta la c
