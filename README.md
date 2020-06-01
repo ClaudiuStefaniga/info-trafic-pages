@@ -1,6 +1,6 @@
 # Info Trafic
 
-O aplicatie cu si despre participantii la trafic. Prin intermediul aplicatiei poti informa ceilalti participanti despre accidente, blocaje, tamponari sau orice pericol real pentru participantii la trafic. Mai mult, poti chiar sa comunici cu ei prin mesaje pe baza numarului de inmatriculare. Luati chiar azi.
+O aplicatie cu si despre participantii la trafic. Prin intermediul aplicatiei poti informa ceilalti participanti despre accidente, blocaje, tamponari sau orice pericol din trafic. Mai mult, poti chiar sa comunici cu ei prin mesaje pe baza numarului de inmatriculare.
 
 
 # Cum functioneaza?
@@ -18,7 +18,7 @@ Contine toate postarile despre incidentele din trafic sub forma de locatii. Prin
 
 ## Noutati
 
-Contine toate postarile sub forma detaliata. Poti vedea ora la care a avut loc incidentul, o descriere a acestuia si locatia sa. De asemenea poti vedea(sau adauga, propirul comentariu) comentariile celorlati utilizatori pentru o anumita postare.
+Contine toate postarile sub forma detaliata. Poti vedea ora la care a avut loc incidentul, o descriere a acestuia si locatia sa. De asemenea poti vedea(sau adauga, propriul comentariu) comentariile celorlati utilizatori pentru o anumita postare.
 
 <img src="noutati1.png" width="500">
 
@@ -26,7 +26,7 @@ Contine toate postarile sub forma detaliata. Poti vedea ora la care a avut loc i
 
 ## Posteaza
 
-Ai vazut un accident/incident in trafic? Spunele si celorlalti.
+Ai vazut un accident/incident in trafic? Spune si celorlalti.
 Adauga o scurta descriere, numarul de inmatriculare al masinii implicate in incident/accident(pentru a putea fi informat imediat despre ce s-a intamplat), o imagine si locatia.
 
 
