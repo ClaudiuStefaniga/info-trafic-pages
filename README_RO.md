@@ -1,11 +1,11 @@
 # Info Trafic
 
-O aplicatie cu si despre participantii la trafic. Prin intermediul aplicatiei poti informa ceilalti participanti despre accidente, blocaje, tamponari sau orice pericol din trafic. Mai mult, poti chiar sa comunici cu ei prin mesaje pe baza numarului de inmatriculare.
+O aplicatie cu si despre participantii la trafic. Prin intermediul aplicatiei poti informa ceilalti participanti despre accidente, blocaje, tamponari sau orice pericol din trafic. Mai mult, comunica cu ei prin mesaje pe baza numarului de inmatriculare.
 
 
 # Cum functioneaza?
 
-Imediat ce descarci aplicatia, trebuie sa te inregistrezi folosind o adresa de e-mail si un numar de inmatriculare. Pe baza numarului de inmatriculare contul tau va fi identificat si vei primi mesaje si notificari de la ceilalti participanti la trafic.
+Dupa ce ai descarcat aplicatia, trebuie sa te inregistrezi folosind o adresa de e-mail si un numar de inmatriculare. Pe baza numarului de inmatriculare contul tau va fi identificat si vei primi mesaje si notificari de la ceilalti participanti la trafic.
 
 <img src="inregistrare.png" width="500">
 
@@ -18,7 +18,7 @@ Contine toate postarile despre incidentele din trafic sub forma de locatii. Prin
 
 ## Noutati
 
-Contine toate postarile sub forma detaliata. Poti vedea ora la care a avut loc incidentul, o descriere a acestuia si locatia sa. De asemenea poti vedea(sau adauga, propriul comentariu) comentariile celorlati utilizatori pentru o anumita postare.
+Contine toate postarile sub forma detaliata. Poti vedea ora la care a avut loc incidentul, o descriere a acestuia si locatia sa. De asemenea poti adauga sau vedea comentariile celorlati utilizatori pentru o anumita postare.
 
 <img src="noutati1.png" width="500">
 
@@ -40,4 +40,4 @@ Vrei sa transmiti un mesaj unui participant din trafic? Nimic mai simplu. Cauta 
 
 ### Contact
 
-Pentru orice informatii, probleme, noi functionalitati ce ti-ar placea sa fie adaugate ma poti contacta la claudiu_stefaniga@yahoo.ro sau prin intermediul aplicatiei la CS42SKY.
+Pentru orice informatii, probleme, noi functionalitati ce v-ar placea sa fie adaugate ma puteti contacta la claudiu_stefaniga@yahoo.ro sau prin intermediul aplicatiei la CS42SKY.
